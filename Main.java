@@ -4,6 +4,7 @@ public class Main {
         System.out.print("Это новый вывод");
         System.out.print("Это еще один вывод");
         System.out.print("Это еще один вывод");
+        System.out.print("Это последний вывод");
     }
 
 }
